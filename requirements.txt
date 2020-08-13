@@ -1,0 +1,1 @@
+git+https://github.com/justinnhli/research.git@f4f8ff7c5b61fbb4559f86bd126ceb769dd23b3c#egg=research
